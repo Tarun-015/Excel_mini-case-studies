@@ -33,3 +33,5 @@ Performance Tracking & Reporting
 1. Student Performance Analysis
 
 2. Retail & Commercial Loan Analytics
+
+3. Bike rental(statistical solving)
