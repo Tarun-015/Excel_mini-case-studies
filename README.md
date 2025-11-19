@@ -36,4 +36,5 @@ Performance Tracking & Reporting
 
 3. Bike rental(statistical solving)
 
-4. Manufacturing & Business Data Management Case Study – Report
+4. Manufacturing & Business Data Management
+   
