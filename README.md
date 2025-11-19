@@ -35,3 +35,5 @@ Performance Tracking & Reporting
 2. Retail & Commercial Loan Analytics
 
 3. Bike rental(statistical solving)
+
+4. Manufacturing & Business Data Management Case Study – Report
